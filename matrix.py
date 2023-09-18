@@ -4,19 +4,6 @@ import random
 import time
 
 
-__doc__ = """
-
-Write a program to display the matrix rain
-
-Next steps:
-
-    - change probability function
-
-    - increase number of frames per second
-
-"""
-
-
 DARK_GREEN = "\033[00;32m"
 LIGHT_GREEN = "\033[01;32m"
 BLACK = "\033[00;30m"
